@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition for the fifth of November</title>
+            <author>Grascome, Samuel, 1641-1708?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41803</idno>
+            <idno type="STC">Wing G1565</idno>
+            <idno type="STC">ESTC R28672</idno>
+            <idno type="EEBO-CITATION">10736491</idno>
+            <idno type="OCLC">ocm 10736491</idno>
+            <idno type="VID">45580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1403:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition for the fifth of November</title>
+                  <author>Grascome, Samuel, 1641-1708?</author>
+                  <author>Grascome, Samuel, 1641-1708?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Samuel Grascombe.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nonjurors.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:45580:1"/>
+            <pb n="1" facs="tcp:45580:1" rendition="simple:additions"/>
+            <head>AN ADMONITION FOR THE Fifth of NOVEMBER.</head>
+            <head>Let us ſearch, and try our Ways, and turn again unto the Lord.</head>
+            <p>DID one know how to retrieve that open Simplicity, and downright Honeſty, which was once the Character and Glory of the <hi>Engliſh</hi> Nation, one would think nothing too much to do or ſuffer, in order to it.</p>
+            <p>We have loſt our Innocence, and with it our Honour, and what have we got in Exchange? Con<g ref="char:EOLhyphen"/>ſcience violated for the ſake of the Church, and the Church ſtill in Danger! Millions expended to ſecure our Property; and Property ſtill precarious, at the Mercy of Men in <hi>Red,</hi> both thoſe <hi>within,</hi> and thoſe <hi>without</hi> St. <hi>Stephen</hi>'s Chapel! The Lives of <hi>Engliſh-men</hi> prodigally thrown away, to <hi>Enſlave</hi> us under the Name of Liberty! And all that is dear to us Temporal and Eternal, ſacrific'd to <hi>Foreigners</hi> in the Service of our Enemies, to bind us down for ever, with the Chains of our own making! What worſe could have befallen us, had the <hi>Gunpowder-Treaſon</hi> took Effect, than has follow'd from the pretended <hi>Deliverance</hi> we tack to
+<pb facs="tcp:45580:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:45580:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:45580:3"/>
+it?—Our King and Royal Family had periſh'd by the Hands of Miſcreants, not by our own: Our Laws had been violated by profeſs'd Adverſaries, not <hi>tamely</hi> given up by our ſelves into the Hands of trea<g ref="char:EOLhyphen"/>cherous Friends! Our Nobility had periſh'd glori<g ref="char:EOLhyphen"/>ouſly with their Prince in a common Ruin; not <hi>meanly</hi> liv'd upon the Surrender of their Privileges and Honour, not degraded themſelves by ſubmitting to the Scum of Foreign Countries.</p>
+            <p>The <hi>Engliſh Commoners</hi> had died <hi>Freemen;</hi> not baſely betray'd their Liberties and their Country for a Share in the Booty. Providence was pleaſed to protect us, and deliver us from the former Attempt by the Wiſdom of its Vice-gerent, our Lawful King: But when we took the Matter into our own Hand, and impiouſly blaſphem'd the Righteous God, by aſcribing our Wickedneſs to his Providence, we were left to the Fruits of our own Folly: We feel the ſad Effects, and have worſe to fear, till we be no more a Nation, but become an exhauſted Province to a petty Dukedom, and the Scorn of the whole Earth.</p>
+            <p>A melancholly Subject! But if we have any ſenſe of Religion left; if under a Cry of Moderation, and Liberty of Conſcience, the Hardſhips put upon the Reverend Clergy, oblig'd to Swear or Starve, and the inconſiſtent <hi>Oaths,</hi> which Men of no Conſcience forc'd upon them that once had ſome; if theſe Meaſures have not deprived us of the Senſe of Good and Evil, Religion and Moral Honeſty, the Danger of our immortal Souls is a Conſideration of much greater Conſequence, than any tempo<g ref="char:EOLhyphen"/>ral Calamity, be it what it may; nor is there in<g ref="char:EOLhyphen"/>deed ſo ſure a Way of averting, or removing tem<g ref="char:EOLhyphen"/>poral Evils, or at leaſt making them turn to our Advantage, as by a ſpeedy and real Repentance. If we are ſenſible of our Sins, and forſake them, who can tell but God will yet be gracious to us,
+<pb n="3" facs="tcp:45580:3" rendition="simple:additions"/>
+as a <hi>Nation?</hi> To be ſure he will pardon every particular Perſon who <hi>thus</hi> repents.</p>
+            <p>But to wipe our Mouths, and ſay we have done no Wickedneſs, is very diſtant from Repen<g ref="char:EOLhyphen"/>tance: To profeſs with our Lips what our Heart cannot but condemn; to do it in the Houſe of God, and in our very Addreſſes to him; to aſcribe to the God of Holineſs and eſſential Juſtice, what is abhorrent to his Nature; and ſolemnly to thank him for proſperous Wickedneſs, is a moſt outra<g ref="char:EOLhyphen"/>geous Profanation. I will not, I cannot aggravate it; may it never be remembred but in a peni<g ref="char:EOLhyphen"/>tent Way; and therefore may it never be again repeated.</p>
+            <p>To which Purpoſe, let me entreat the Reverend Clergy [who are Examples to their Flocks] ſeri<g ref="char:EOLhyphen"/>ouſly to read over the Service for the Fifth of <hi>November</hi> in private, before they come to read it in the Houſe of God; and in his Name, and for his ſake and their own, I beg them to conſider, how oppoſite it is to his eſſential Attributes; how inconſiſtent with the Principles and Profeſſions oſ many of them; and how fatal ſuch profane and hypocritical Addreſſes muſt be to the Souls of thoſe who make them.——One would be glad to know, what Seaſon we refer to by the <hi>Time that afflicted us.</hi> It cannot be the Reigns of King <hi>Charles</hi> and King <hi>James</hi> the Second, in which Trade flouriſhed; we enjoy'd Peace and Ple<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty; our Churches were better frequented than they have been ſince; our Clergy in higher Reputation; Religion more reve<g ref="char:EOLhyphen"/>renced and more at Heart; the <hi>few</hi> that had ſome Cauſe to complain, were treated in a more humane and generous Manner, than the <hi>many</hi> who have ſuffered ſince. OATES, whoſe Character every body knows, was whipp'd ſeverely, 'tis true; but not to <hi>Death.</hi> Seven Biſhops were confin'd for a while in the Tower, and were allowed a ſpeedy and fair Tryal; but they were not <hi>Depriv'd,</hi> as
+<pb n="4" facs="tcp:45580:4"/>
+five of thoſe very Biſhops were, by their <hi>pretended Deliverer,</hi> and not ſo much as allowed a ſmall Sub<g ref="char:EOLhyphen"/>ſiſtence. The <hi>Magdalen</hi> College Buſineſs was much outdone by the many Nonjurors left to ſtarve with their Wives and Children. There is nothing in King <hi>James</hi>'s Reign parallel to the GLENCOE MAS<g ref="char:EOLhyphen"/>SACRE; nor to the Deſolation of the <hi>Church of Scotland;</hi> a Prelude to that of <hi>England.</hi> For what is it then that we are to <hi>offer up our unfeigned Thanks?</hi> What is it, what can it be, that <hi>fills our Hearts with Joy and Gladneſs,</hi> when we remember the Revoluti<g ref="char:EOLhyphen"/>on? Is it, that our Hereditary Monarchy was chan<g ref="char:EOLhyphen"/>ged into an Elective? That we drove away our <hi>native and lawful Princes,</hi> indued with an inborn <hi>He<g ref="char:EOLhyphen"/>reditary Clemency,</hi> to ſet up a FOREIGN RACE, who neither underſtand our Laws nor Conſtitution, nor ſo much as our Language? Is it, that our once groundleſs and unreaſonable Fears, are really brought upon us by the unrighteous Methods we took to be rid of them? For <hi>Popery</hi> can never ob<g ref="char:EOLhyphen"/>tain in this Iſland, but <hi>Atheiſm</hi> and <hi>Irreligion</hi> not only <hi>may,</hi> but <hi>do.</hi> Do we rejoice, that our Plen<g ref="char:EOLhyphen"/>ty and Peace are exchanged for War and Miſery? That the Nation is involved in a Debt, which, in the Way we are, muſt inevitably ſink it? That Multitudes of Families are reduced to extreme Ne<g ref="char:EOLhyphen"/>ceſſity, that the Betrayers of their Country may enrich themſelves with its Spoils? Do we who were ſo afraid of ſuffering any thing for Conſcience ſake, (that we choſe Iniquity rather than Affliction) rejoice that inſtead of a few Martyrs for the Truth (a Tryal we may ſafely ſay we ſhould never have been put to by King <hi>James)</hi> ſo many Thouſand Lives and Souls have periſhed in an unjuſt and ambitious War? Do we preſume to thank God for a Deliverance from thoſe Grievances we complained of in our <hi>Petition of Right,</hi> at a Time when we labour under the ſame, or greater, in Conſequence of that pretended Delive<g ref="char:EOLhyphen"/>rance:
+<pb n="5" facs="tcp:45580:4"/>
+Grievances which are not leſſened, but in<g ref="char:EOLhyphen"/>creaſed, by being bound upon us by thoſe who call themſelves <hi>our Repreſentatives;</hi> the Corruption of a Parliament being the greateſt of all Grievances, as depriving us of all peaceable Means of Redreſs, chan<g ref="char:EOLhyphen"/>ging and ſuſpending our Laws, and even deſtroying our Conſtitution, as their Managers are pleaſed to direct. <hi>Tyranny</hi> is hateful from whatever Hand it proceeds; it is not the better, but the worſe for being <hi>Proteſtant;</hi> the Inſult is greater, and the In<g ref="char:EOLhyphen"/>dignation ought to be ſo, when we ſee our ſelves oppreſs'd by thoſe who declare the loudeſt againſt Oppreſſions, and depriv'd of our Rights and Liber<g ref="char:EOLhyphen"/>ties, by thoſe who <hi>pretended</hi> to defend them. Pro<g ref="char:EOLhyphen"/>vidence is always <hi>juſt</hi> and <hi>wiſe,</hi> even when the Suc<g ref="char:EOLhyphen"/>ceſs does not anſwer our Expectation; but we are neither, if we judge by Events. Time has convinc'd us of our Want of <hi>Wiſdom,</hi> it were happy for us, had we as lively a Senſe of our <hi>Injuſtice.</hi> With what Face can we ſpeak to an All-knowing God of our <hi>extreme Dangers;</hi> ſince they who raiſed the Alarm, and made the loudeſt Noiſe with their Fears, allow, now their Turn is ſerved, that the Stories which gave us thoſe Apprehenſions, were moſt of them Forgeries; and the real Dangers were brought upon us by the treacherous Counſels of the Men, whom OUR PRETENDED DELIVERER afterwards employ'd and rewarded for betraying their <hi>too honeſt and credulous Maſter?</hi>
+            </p>
+            <p>Had we then a Foreigner for our L—d and King? one who kept up, not a chimerical, but a real ſeparate Intereſt from ours; who had other Subjects and Domi<g ref="char:EOLhyphen"/>nions more belov'd, amongſt whom our Treaſure was exhauſted? No; K. <hi>James</hi> made his Subjects rich as well as himſelf, and loſt his Crown becauſe he wou'd not enter into Alliances to the Detriment of his own People. If we had a Standing Army, it did not con<g ref="char:EOLhyphen"/>ſiſt of FOREIGN MERCENARY TROOPS, but of natural born Subjects. <hi>Foreign Soldiers</hi> were not maintain'd at
+<pb n="6" facs="tcp:45580:5"/>
+home, whilſt our Countrymen were ſent abroad to periſh in our Neighbours Quarrels. A <hi>French League,</hi> was then only <hi>pretended;</hi> we are bound in it now with a Vengeance, to the utter Ruin of our Trade; and tamely contribute to the exorbitant Power both of <hi>France</hi> and <hi>Germany!</hi> The deſign of our Enemies did indeed ſucceed; SUNDERLAND and others had the Re<g ref="char:EOLhyphen"/>ward of betraying their Country as well as their Prince and Benefactor: The Confederates alſo had theirs, in drawing us in to bear the Expence and Burthen of their Quarrels. Whatever <hi>Attempts</hi> were made, or pretended to be made formerly by <hi>our Enemies, to bereave us of our Religion and Laws,</hi> ſure I am the Nation feels by ſad Experience, that we are not at preſent delivered from ſuch ſort of Attempts, which are but too likely to ſuc<g ref="char:EOLhyphen"/>ceed in the Hands of our PRETENDED FRIENDS.</p>
+            <p>But to wave Facts and come to Principles. The Doctrine of the Croſs, or Patient Submiſſion to our Lawful Sovereign, when unlawfully oppreſs'd, with<g ref="char:EOLhyphen"/>out daring to reſiſt (tho' it ſhou'd be in our Power to do it ſuccesfully,) leſt we incur Damnation; as it is a Chriſtian Doctrine, in fpite of all the Sophiſtry and Scurrility of <hi>profane Wits,</hi> the Gates of Hell can never prevail againſt it. The <hi>Reformed Church</hi> of <hi>England</hi> is peculiarly diſtinguiſh'd from other MODERN, CHURCHES, (as yet under Corruption, or more imperfectly reform'd) by teaching and inculcating this Doctrine, as ancient as Chriſtianity it ſelf. And tho' ſome of her Members, like St. <hi>Peter,</hi> may have fallen thro' Weakneſs, and violent Temptations, it is to be hoped they will, like him, recover themſelves, and rather part with their Tranſgreſſions than their Princi<g ref="char:EOLhyphen"/>ples. For alaſs! who can ſay, I am free from Sin? The Weakneſs of human Nature renders us Objects of the divine Compaſſion and mutual Forbearance. But it is the Property of Devils, and thoſe whom they have hardned, to perſiſt in their Iniquity, and add Sin to Sin.</p>
+            <p>Now that Reſiſtance was uſed at the REVOLUTION, cannot well be deny'd; it was contended for by the famous <hi>Managers,</hi> and is gloried in by the greateſt Ad<g ref="char:EOLhyphen"/>vocates of the Revolution. And whatever Schemes they may proceed upon, whatever Arguments they
+<pb n="7" facs="tcp:45580:5"/>
+may urge in their own Defence, who would not be thought to relinquiſh their Paſſive Principles, by com<g ref="char:EOLhyphen"/>plying, or if they pleaſe, ſubmitting to what was tran<g ref="char:EOLhyphen"/>facted by other Hands; tho' the learned may think themſelves able, 'tis certain the common People, even the more intelligent Part of the Congregation, know not how to reconcile that Doctrine with the Prayers for the 5th of <hi>November.</hi> Can we think it unlawful to reſiſt King <hi>James</hi> in private among our Friends, and thank God that we had no Hand in dethroning him; and yet in publick <hi>bleſs God for the ſafe Arrival</hi> of the Man who did it, and for <hi>making</hi> (as we ſay) <hi>all Oppo<g ref="char:EOLhyphen"/>ſition fall before him,</hi> till he by the Aſſiſtance of rebel<g ref="char:EOLhyphen"/>lious Subjects had poſſeſs'd himſelf of our lawful Sove<g ref="char:EOLhyphen"/>reign's Throne, and ſo <hi>became our King and Governour.</hi> Is not this as ſolemn an Approbation of the Revolu<g ref="char:EOLhyphen"/>tion, and all the Methods that were taken to accompliſh it, as can be made; and ſuch as is utterly inconſiſtent with the Doctrine of Paſſive Obedience? Let us lay our Hands upon our Hearts, and ſeriouſly conſider, what Service our Excuſes and Evaſions will do us at the dreadful Tribunal of the righteous God. Can we excuſe our ſelves from being Partakers at leaſt in other Mens Sins, and from giving Countenance and Encourage<g ref="char:EOLhyphen"/>ment to a Wickedneſs, which we profeſs to abhor? But if Principles of Religion will not perſwade us to juſter Meaſures; if the Honour of our Church and Nation has no Effect upon us; let us at leaſt regard our mere temporal Intereſt, which drew us at firſt into the Snare; and conſider, how the juſt Judgment of God has purſu'd us in our own Way, and puniſhed us by our very iniquity. Do but allow <hi>Atheiſm, Arianiſm,</hi> &amp;c. as bad as Popery, and we muſt needs own 'tis too notorious to be deny'd, that the very Evils we were at a Diſtance afraid of, are by our Methods of Prevention brought upon us. Our Impatience wou'd not bear any thing from our Lawful Prince, to whom we owed Sub<g ref="char:EOLhyphen"/>jection; and we tamely bear every thing from an Uſ—r, whom in Duty, Honor, and Intereſt, we are oblig'd to oppoſe. The <hi>Neceſſity</hi> we formerly pretended in Breach of the Laws, our Oaths and Duty, is now real and urgent, and the Meaſures it puts us upon, tho' ever ſo extraordinary, are even <hi>Lawful</hi> too, inaſ<g ref="char:EOLhyphen"/>much
+<pb n="8" facs="tcp:45580:6"/>
+as they are enter'd on, in our own Juſt and neceſſary Defence, againſt Thieves and Robbers, againſt <hi>unlawful Uſurpation.</hi> We have all the Reaſon in the World to throw off our Stupidity and Cowardice, and Manfully to exert our ſelves; to deliver our Church and Nation from impending Ruin, our ſelves and our Poſterity from thoſe Evils, which are ſo much the more ſhameful and intolerable, in that we brought them by our Tranſgreſſions, upon our own Heads: Now is there any Way to eſcape, but by returning to our Duty to God and the King.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45580:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
